@@ -1,0 +1,2 @@
+# Econometrics
+MSE Econometrics class
